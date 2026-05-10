@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Booky/static/js/main.24cf8435.js",
+    "main.js": "/Booky/static/js/main.011e53f3.js",
     "index.html": "/Booky/index.html",
-    "main.24cf8435.js.map": "/Booky/static/js/main.24cf8435.js.map"
+    "main.011e53f3.js.map": "/Booky/static/js/main.011e53f3.js.map"
   },
   "entrypoints": [
-    "static/js/main.24cf8435.js"
+    "static/js/main.011e53f3.js"
   ]
 }
